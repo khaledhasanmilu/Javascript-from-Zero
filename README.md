@@ -29,16 +29,34 @@ Each folder contains **concept practice + problem-solving files**.
 ---
 
 ## 📚 Topics Covered
-
 - JavaScript Basics
-- Variables & Data Types
-- Operators
-- Conditional Statements
-- Loops
-- Functions
-- Arrays
-- Strings
-- Objects
+- Variables (let, const, var) & Data Types
+- Operators (Arithmetic, Comparison, Logical)
+- Conditional Statements (if, else, switch)
+- Loops (for, while, do-while)
+- Functions (Declaration, Expression, Arrow Functions)
+- Scope & Hoisting
+- Arrays (Methods, Iteration)
+- Strings (Methods & Manipulation)
+- Objects (Properties, Methods)
+- Destructuring (Array & Object)
+- Spread & Rest Operators
+- Template Literals
+- Truthy & Falsy Values
+- Type Conversion & Coercion
+ -  🔹 JavaScript for Automation & Testing
+- Asynchronous JavaScript
+- Callbacks
+- Promises
+- async / await
+- Error Handling (try...catch)
+- Working with Dates & Time
+- JSON Handling
+- Modules (import / export)
+- File & Folder Basics (Node.js)
+- Environment Variables
+- Debugging Techniques
+- Writing Clean & Maintainable Code
 - Logical & Problem-Solving Exercises
 
 More topics will be added as learning progresses.
