@@ -45,17 +45,6 @@ More topics will be added as learning progresses.
 
 ---
 
-## 📂 Repository Structure
-javascript-problem-solving/
-│
-├── 01-basics/
-├── 02-conditions/
-├── 03-loops/
-├── 04-functions/
-├── 05-arrays/
-├── 06-strings/
-├── 07-objects/
-└── 08-problem-solving/
 
 Each folder includes:
 - Concept examples
