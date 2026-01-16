@@ -2,7 +2,7 @@
 # JavaScript Asynchronous Concepts  
 ## Callbacks, Promises & Async/Await
 
-This repository explains **Callbacks**, **Promises**, and **Async/Await** in JavaScript in a simple and easy-to-understand way.
+This file explains **Callbacks**, **Promises**, and **Async/Await** in JavaScript in a simple and easy-to-understand way.
 
 ---
 
@@ -164,15 +164,3 @@ console.log(data);
 👉 **Async/Await is built on top of Promises.**
 
 ---
-
-## 🚀 Author
-
-Khaled Hasan Milu
-Happy Coding 💻🔥
-
-```
-
----
-
-
-```
