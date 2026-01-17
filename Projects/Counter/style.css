@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    font-size: 2rem;
+
+}
+button{
+  padding: 10px 30px;
+  font-size: 2rem;
+  cursor: pointer;
+}
+/* .counter{
+    font-size: 6rem;
+    margin: 20px 0;
+} */
